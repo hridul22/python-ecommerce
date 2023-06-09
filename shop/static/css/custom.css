@@ -1,0 +1,136 @@
+.nav-item{
+    letter-spacing : .2em;
+    font-size : 15px;
+    text-transform : uppercase;
+  }
+
+.dropdown-item{
+    letter-spacing : .2em;
+    font-size : 15px;
+    text-transform : uppercase;
+
+
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+
+.my_footer pre{
+   padding-top : 18px;
+
+   font-size : 12px;
+   background-color : #D5DFD3;
+   padding-bottom:10px;
+}
+
+.my_row_class{
+  padding-top:15px;
+
+}
+.my_row_class .mx-auto{
+  color:#32EC0C;
+  font-size:35px;
+}
+.my_image{
+   width:100%;
+   height:auto;
+
+}
+
+.my_title{
+    letter-spacing : .2em;
+    font-size : 45px;
+    text-transform : uppercase;
+    font-family:'Arial Black' , sans-serif;
+
+
+}
+
+.my_image_padding{
+  padding:5px;
+}
+
+.my_bottom_margin{
+
+margin-bottom:10px;
+}
+
+.card-body H4{
+  font-size:15px;
+
+  letter-spacing:.2em;
+
+}
+.card{
+height:auto;
+width:auto;
+}
+.prod_image{
+height:18rem;
+
+}
+.card-body{
+text-transform:uppercase;
+}
+/***product***/
+.my_prod_row_class{
+padding-top:15px;
+padding-bottom:20px;
+}
+.my_prod_row_class .mx_auto{
+color:#000;
+font-size:12px;
+text-decoration:none;
+}
+
+.my_prod_title{
+ font-size:19px;
+ text-transform:uppercase;
+ letter-spacing.2em;
+ padding-top:15px;
+ padding-bottom:10px;
+
+
+}
+
+my_prod_text{
+padding-right:20px;
+
+
+}
+.footer{
+padding-top:12px
+}
+.my_search{
+
+padding-top:20px;
+}
+/***cart***/
+.my_custom_table{
+min-width:400px;
+font-size:14px;
+}
+.my_custom_thead{
+font-weight:normal:
+text-transform:uppercase;
+letter-spacing:2em;
+background-color:
+
+}
+
+.custom_a{
+   text-decoration:none;
+}
+
+.custom_icon{
+
+   text-decoration:none;
+   color:#868e96 !important;
+}
+
+.custom_btn{
+   margin-top:5px;
+}
